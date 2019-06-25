@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Error Correction 541
     int matrixSize;
     while(scanf("%d", &matrixSize), matrixSize){
         int myMatrix[matrixSize][matrixSize];

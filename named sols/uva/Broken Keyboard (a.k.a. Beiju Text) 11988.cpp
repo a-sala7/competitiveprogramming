@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	//Broken Keyboard (a.k.a. Beiju Text) 11988
     string s;
     while(cin>>s){
         bool atEnd = true;

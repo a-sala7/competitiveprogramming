@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Throwing cards away I 10935
     int numCards, x;
     while(scanf("%d", &numCards) && numCards){
         queue<int> myCards;

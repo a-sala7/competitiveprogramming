@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Young Physicist CF69-D2-A
     int n;
     cin>>n;
     int forces[n][3];

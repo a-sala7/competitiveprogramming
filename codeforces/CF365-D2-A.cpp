@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Good Number CF365-D2-A
     int n, k;
     cin>>n>>k;
     string strings[n];

@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Bit++ CF282-D2-A
     int n, x = 0;
     cin>>n;
     string s;

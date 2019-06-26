@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Twins CF160-D2-A
     int n;
     cin>>n;
     int coins[n];

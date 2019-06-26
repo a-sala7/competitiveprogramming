@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-
+	//Meeting Friends CF723-D2-A
     int a, b, c;
     cin>>a>>b>>c;
     /*fuck this fucking shit let's try bruteforcing it

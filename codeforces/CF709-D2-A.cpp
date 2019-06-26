@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Juicer CF709-D2-A
 	long int numOranges, maxSize, wasteMax, emptyWaste = 0, added = 0;
 	cin>>numOranges>>maxSize>>wasteMax;
 	int oranges[numOranges];

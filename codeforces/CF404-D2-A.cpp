@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Valera and X CF404-D2-A
     int n;
     cin>>n;
     char c1, c2;

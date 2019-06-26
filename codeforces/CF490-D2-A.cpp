@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Team Olympiad CF490-D2-A
     int numKids, x = 0, y = 0,z = 0;
     cin>>numKids;
     int skills[numKids];

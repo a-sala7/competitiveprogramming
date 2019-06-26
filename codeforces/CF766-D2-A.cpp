@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Mahmoud and Longest Uncommon Subsequence CF766-D2-A
     string s, t;
     cin>>s>>t;
     if(s==t)

@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Launch of Collider CF699-D2-A
     long n;
     cin>>n;
     long long pos[n];

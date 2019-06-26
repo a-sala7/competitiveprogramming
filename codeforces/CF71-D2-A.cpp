@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Way Too Long Words CF71-D2-A
     int n;
     cin>>n;
     string s[n];

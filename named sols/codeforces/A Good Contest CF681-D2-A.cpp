@@ -12,7 +12,7 @@ int main()
     bool good = false;
     for(int i = 0; i < n; i++){
         cin>>name>>ratingBefore[i]>>ratingAfter[i];
-        if(ratingBefore[i] > ratingAfter[i] && ratingBefore[i] >= 2400){
+        if(ratingAfter[i] > ratingBefore[i] && ratingBefore[i] >= 2400){
             good = true;
         }
     }

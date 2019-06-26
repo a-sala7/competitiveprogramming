@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Dubstep CF208-D2-A
     string s;
     cin>>s;
     char c, r, l;

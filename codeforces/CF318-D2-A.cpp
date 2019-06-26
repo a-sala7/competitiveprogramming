@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Even Odds CF318-D2-A
     long long numOfInts, target, targetValue;
     cin>>numOfInts>>target;
     //EVEN

@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Ksenia and Pan Scales CF382-D2-A
     string s, t;
     cin>>s>>t;
     int alreadyR = 0;

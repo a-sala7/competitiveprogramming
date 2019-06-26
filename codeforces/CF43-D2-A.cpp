@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Football CF43-D2-A
     string name1, name2, curr;
     bool assigned[2] = {false};
     int goals;

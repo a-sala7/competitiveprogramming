@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Is it rated CF807-D2-A
     int users;
     cin>>users;
     int before[users];

@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+	//Laptops CF456-D2-A
     long n;
     cin>>n;
     long price[n], quality[n];

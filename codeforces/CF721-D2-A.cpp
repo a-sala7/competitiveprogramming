@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//One-dimensional Japanese Crossword CF721-D2-A
     int n;
     string s;
     cin>>n>>s;

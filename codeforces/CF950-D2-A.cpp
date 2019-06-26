@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Left-handers, Right-handers and Ambidexters CF950-D2-A
     int r, l, a;
     cin>>l>>r>>a;
     bool special = false;

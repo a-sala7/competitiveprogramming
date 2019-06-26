@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Translation CF41-D2-A
     string s;
     string t;
     cin>>s>>t;

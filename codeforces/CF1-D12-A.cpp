@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Theatre Square CF1-D12-A
     long double x, y, a;
     cin>>x>>y>>a;
     long long int xx = x/a;

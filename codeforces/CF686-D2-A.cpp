@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Free Ice Cream CF686-D2-A
     int qLength, madKids = 0;
     long long packs;
     cin>>qLength>>packs;

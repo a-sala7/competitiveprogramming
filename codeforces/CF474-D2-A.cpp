@@ -13,6 +13,7 @@ int charInString(char ccc, string sss){
 
 int main()
 {
+	//Keyboard CF474-D2-A
     char shift;
     string text;
     string k = "qwertyuiopasdfghjkl;zxcvbnm,./";

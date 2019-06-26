@@ -13,6 +13,7 @@ int charInString(char hCharToFind, string hString){
 
 int main()
 {
+	//String Task CF118-D2-A
     string s;
     string vowels = "AOYEUIaoyeui";
     cin>>s;

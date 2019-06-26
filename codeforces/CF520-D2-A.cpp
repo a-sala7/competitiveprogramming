@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Pangram CF520-D2-A
     bool found[26] = {false};
     int lttrs;
     cin>>lttrs;

@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Olesya and Rodion CF584-D2-A
     int theSize;
     string factor;
     cin>>theSize>>factor;

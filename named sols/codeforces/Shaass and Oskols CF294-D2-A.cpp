@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Shaass and Oskols CF294-D2-A
 	int numLines;
 	cin>>numLines;
 	int numBirds[numLines];

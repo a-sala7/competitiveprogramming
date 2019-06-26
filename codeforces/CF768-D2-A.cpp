@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Oath of the Night's Watch CF768-D2-A
     long n;
     cin>>n;
     long long stewards[n];

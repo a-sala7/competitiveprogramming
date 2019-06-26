@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Panoramix's Prediction CF80-D2-A
     int a, b;
     cin>>a>>b;
     bool bIsPrime = true;

@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Arpa’s hard exam and Mehrdad’s naive cheat CF742-D2-A
     long long n;
     cin>>n;
     if(n==0){

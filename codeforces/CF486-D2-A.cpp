@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Calculating Function CF486-D2-A
     bool nIsOdd;
     long long originalN, n, odds, evens;
     cin>>originalN;

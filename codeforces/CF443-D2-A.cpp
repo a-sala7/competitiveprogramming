@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Anton and Letters CF443-D2-A
     int n = 0;
     bool distinct[26] = {false};
     char x;

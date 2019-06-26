@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//New Password CF770-D2-A
     string ltrs = "abcdefghijklmnopqrstuvwxyz";
     bool used[26] = {false};
     int reqSize, uniqueLtrs;

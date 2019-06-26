@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Vasya the Hipster CF581-D2-A
     int red, blue;
     cin>>red>>blue;
     int hipDays = 0;

@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Die Roll CF9-D2-A
 	int roll1, roll2, topRoll;
 	cin >> roll1 >> roll2;
 	topRoll = max(roll1, roll2);

@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//I Wanna Be The Guy CF469-D2-A
     int n;
     cin>>n;
     bool passable[n+1] = {false};

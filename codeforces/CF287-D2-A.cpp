@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//IQ Test CF287-D2-A
     char pic[4][4];
     bool possible = false;
     for(int i = 0; i < 4; i++){

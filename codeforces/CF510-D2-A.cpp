@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Fox And Snake CF510-D2-A
     int n, m;
     cin>>n>>m;
     bool right = true;

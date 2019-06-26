@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Greg's Workout CF255-D2-A
     int n;
     cin>>n;
     int exercises[n+1];

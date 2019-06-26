@@ -6,6 +6,7 @@ int charInString(char ccc, string sss);
 
 int main()
 {
+	//Diverse Strings CF550-D3-A
     int n;
     cin>>n;
     string strs[n];

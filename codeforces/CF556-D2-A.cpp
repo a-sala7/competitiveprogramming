@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Case of the Zeroes and Ones CF556-D2-A
     long n;
     string s;
     cin>>n>>s;

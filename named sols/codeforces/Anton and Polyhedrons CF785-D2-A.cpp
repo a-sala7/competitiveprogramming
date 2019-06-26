@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	//
+	//Anton and Polyhedrons CF785-D2-A
     long n;
     cin>>n;
     long long result = 0;

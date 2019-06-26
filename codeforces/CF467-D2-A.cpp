@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Accomodation CF467-D2-A
     int n;
     cin>>n;
     int residents[n], capacity[n];

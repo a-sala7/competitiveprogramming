@@ -4,6 +4,7 @@ using namespace std;
 
 int main()
 {
+	//Brain's Photos CF707-D2-A
     int n, m;
     cin>>n>>m;
     char myMatrix[n][m];

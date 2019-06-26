@@ -3,6 +3,7 @@ using namespace std;
 
 int main()
 {
+	//Helpful Maths CF339-D2-A
     string s;
     int nums[3] = {0,0,0};
     cin>>s;

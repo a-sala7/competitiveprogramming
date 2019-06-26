@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Next Round CF158-D12-A
     int n, pos;
     cin>>n>>pos;
     int scores[n];

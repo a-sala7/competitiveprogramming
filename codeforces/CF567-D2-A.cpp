@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
+	//Lineland Mail CF567-D2-A
     long int n;
     cin>>n;
     long long int cities[n];

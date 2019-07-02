@@ -7,15 +7,6 @@ using namespace std;
 int main()
 {
     //Keyboard CF88-D2-B
-    /*unsolved TLE because apparently the problem setter is a sadist retard.
-      I need to create frequency arrays, fucking arrays of vectors of pairs of ints just
-      to get a half-decent time complexity on this
-      and if that wasn't enough, for test 51 I also need the solution to be aware of the distances it's trying so it doesn't
-      try further ones when the closer isn't working. I don't even want to begin thinking about that, I'll probably have to
-      rewrite the entire solution, rethink my entire approach for that.
-      Fuck this stupid ass dumbass shit problem setter and his dumbass problem.
-
-      lol no never mind I got it*/
     int n,m,x;
     cin>>n>>m>>x;
     char keyboard[n][m];

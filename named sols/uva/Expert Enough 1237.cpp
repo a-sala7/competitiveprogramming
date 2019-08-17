@@ -7,7 +7,7 @@ int main()
 {
     //Expert Enough 1237
     int t;
-    cin>>t; //test cases
+    cin>>t;
     for(int k = 0; k < t; k++){
         int n;
         cin>>n;

@@ -7,13 +7,13 @@ int main()
 {
     //Expert Enough 1237
     int t;
-    cin>>t; //test cases
+    cin>>t;
     for(int k = 0; k < t; k++){
-        int n; //database size
+        int n;
         cin>>n;
         pair<string, pair<long, long>> database[n];
-        string s; //list of names
-        long a, b; //range start-end
+        string s;
+        long a, b;
         for(int i = 0; i < n; i++){
             cin>>s>>a>>b;
             database[i].fr = s;
